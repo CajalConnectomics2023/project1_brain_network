@@ -20,5 +20,7 @@ The central brain of the fruit fly contains approximately 33k neurons - a stagge
 
 ## Resources 
 1. [NEURON simulator](https://www.neuron.yale.edu/neuron/) homepage (features a couple basic tutorials)
+2. [Cosyne Tutorial on Spiking Neural Networks](https://www.youtube.com/watch?v=GTXTQ_sOxak) (YouTube): from scratch coding of spiking neural networks
+3. [INCF/CNS 2022 course: NEURON concepts](https://www.youtube.com/watch?v=VPhxULQVCDQ) (YouTube): core concepts of NEURON, nice overview 
 
 
