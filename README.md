@@ -1,7 +1,7 @@
 # Analysis and Spiking Model of the Neuron Network of the Fly Brain
 Instructors: Dr. Philipp Schlegel & Dr. Andrew Champion (University of Cambridge, UK)
 
-This repository contains resources and data for the Fly Brain Network project.
+This repository contains resources and data for the Fly Brain Network project. Please note that the original project 3 (network analyses) has been rolled into this project and we will do a bit of both!
 
 ## Description
 The central brain of the fruit fly contains approximately 33k neurons - a staggering number if one was to investigate them experimentally in the wet lab. One way to scale analysis to whole-brain level is to model neuronal activity in-silico. In this project we will use the recently published FlyWire resource to run network analyses and implement spiking models of the entire fly brain. You will learn to generate and test hypotheses about brain function. After an initial introduction into the basics of connectomics datasets, network analyses and the NEURON simulator where we will focus on the fly’s olfactory system, students will be developing and exploring their own research questions and models for their final project. 
