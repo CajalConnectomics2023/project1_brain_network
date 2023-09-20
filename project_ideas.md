@@ -9,7 +9,7 @@ Flies can learn to associate odors with reward or punishment. Memories are forme
 Broadly speaking, most MBONs encode for either approach or avoidance. Dopaminergic neurons function as reward/punishment coincidence detector they modulate the synaptic strength between KCs and MBONs.
 When such short-term memory transitions into long-term storage we expect to see actual anatomical changes, i.e. more or less synapses between KCs and a given MBON.
 
-![schematic of the insect mushroom body](https://www.researchgate.net/publication/331897051/figure/fig2/AS:738522944249856@1553088999309/Schematic-diagrams-of-the-mushroom-bodies-and-their-connections-A-A-schematic-diagram.jpg)
+![schematic of the insect mushroom body](https://onlinelibrary.wiley.com/cms/asset/fb469ee2-7560-48eb-a79c-cfcc0dd688f1/gbb12567-fig-0002-m.jpg)
 
 #### Question 
 Given that there is in theory an anatomical correlate for long-term memories, we should be able to read out a fly's memory trace by modelling its mushroom body and apply fictive olfactory stimuli. 
