@@ -1,7 +1,7 @@
 ## Project ideas
 
 In general, we encourage students to conceive and develop their own projects.
-We do however appreciate that inspiration can be a fickle misstress and hence
+We do however appreciate that inspiration can be a fickle mistress and hence
 provide some project ideas - just in case. These are meant as seeds which you
 can develop into something of your own.
 
