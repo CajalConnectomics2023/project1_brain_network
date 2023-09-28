@@ -5,7 +5,9 @@ We do however appreciate that inspiration can be a fickle mistress and hence
 provide some project ideas - just in case. These are meant as seeds which you
 can develop into something of your own.
 
-### Project 1: Modelling the antennal lobe (easy)
+### Project 1: Re-implementing the Shui _et al._ paper in `NEURON` (easy)
+
+### Project 2: Modelling the antennal lobe (easy)
 The antennal lobe (AL) is the first order processing center for olfactory sensory
 information. Sensory axon terminate in one of 51 olfactory glomeruli
 (+ 7 thermo/hygrosensory glomeruli). Each glomerulus is targeted by sensory
@@ -21,7 +23,7 @@ and provide e.g. lateral inhibition between glomeruli.
 For this project we propose you attempt modelling the signal processing performed
 in the antennal lobe such as denoising and normalization.
 
-### Project 2: Reading out long term memory (hard)
+### Project 3: Reading out long term memory (hard)
 
 Flies can learn to associate odors with reward or punishment. Memories are
 formed & stored in the mushroom body: this structure is common to all insects
@@ -51,7 +53,7 @@ neurons matching a range of odours (using e.g. the [DoOR](https://neuro.uni-kons
 database) and then read-out the responses in MBONs with known valence.
 
 
-### Project 3: Exploring cell types (medium)
+### Project 4: Exploring cell types (medium)
 
 Grouping neurons into types is useful because it simplifies the graph. In flies,
 cell types are typically based on morphology (sometimes combined with connectivity).
