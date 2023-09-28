@@ -58,8 +58,7 @@ cell types are typically based on morphology (sometimes combined with connectivi
 The assumption then is that neurons of the same cell type show effectively the
 same activity.
 
-For this project we propose to use the olfactory system (antennal lobe
-+ lateral horn) test this assumption in various ways:
+For this project we propose to use the olfactory system (antennal lobe & lateral horn) test this assumption in various ways:
 
 1. By correlating the responses of neurons from the same cell type to various
    fictive stimuli, you could try to find a set of stimuli where cells of the
